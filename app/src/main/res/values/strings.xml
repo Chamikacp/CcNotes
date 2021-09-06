@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cc Notes</string>
+    <string name="cc_notes">Cc Notes</string>
+    <string name="take_your_notebook_with_you">Take Your Notebook With You</string>
+    <string name="chamika_chiran">Chamika Chiran</string>
+    <string name="chamikacp3_gmail_com">chamikacp3@gmail.com</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="title_activity_add_note" />
+    <string name="title_activity_note_details" />
+    <string name="ccnotes">CcNotes</string>
+</resources>

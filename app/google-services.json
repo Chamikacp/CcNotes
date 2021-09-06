@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809100273587",
+    "firebase_url": "https://ccnotes-a7bb8.firebaseio.com",
+    "project_id": "ccnotes-a7bb8",
+    "storage_bucket": "ccnotes-a7bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809100273587:android:8f5700eaff2ae1a13e0dc6",
+        "android_client_info": {
+          "package_name": "com.example.ccnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809100273587-ud3ts1au8q1m63lhgkph9vh0klf11sq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJg4ZreUROqRbYXYHAOmC8jSl71aV9DpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809100273587-ud3ts1au8q1m63lhgkph9vh0klf11sq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
